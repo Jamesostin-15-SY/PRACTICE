@@ -6,6 +6,7 @@ import Modelo.*;
 import Procesos.*;
 import javax.swing.table.DefaultTableModel;
 public class ControlEstudiante implements ActionListener{
+    //Y DALE U TODA LA VIDA
     frmEstudiante vista;
     Estudiante est;
     DefaultTableModel mt;
